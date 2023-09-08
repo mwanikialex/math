@@ -1,0 +1,120 @@
+
+Variable identification 
+(a)			
+unit of analysis	variables 	dependent variables	independent variables
+an undergraduate student	race		nominal
+	data race
+ desirability
+rank	ordinal	
+
+(b)			
+unit of analysis	variables 	dependent variables	independent variables
+High school student			nominal
+	Number of different romantic relationships 
+
+Number of times they have had sexual intercourse	Ratio	
+
+(c)			
+unit of analysis	variables 	dependent variables	independent variables
+Voting precinct	Voting turnout	Nominal	nominal
+	Percentage of minority 
+
+Percentage of minority elected officials		Ratio
+
+
+Math Quiz solutions 
+
+1.  
+
+	Calculate the values inside the parentheses first:
+(12 - 11) = 1
+(5 + 6) = 11
+
+	Now, calculate the product of (5 + 6) and (-3):
+11 * (-3) = -33
+	Calculate the product of (6 + 4) and 10:
+(6 + 4)* 10 = 10 * 10 
+= 100
+	Finally, divide the result from step 2 by the result from step 3:
+	(-33) / 100 = -0.33
+   -0.33.
+
+
+ 2.  For the set of scores (Xi) of 17, 6, -12, 8 evaluate the expression    
+To evaluate the expression Σ(xi), you need to sum up all the individual scores (xi) given:
+x_i  = 17 + 6 - 12 + 8
+x_i=19
+
+
+ 
+3. Just give the answer from your calculator        
+   The square root of 450 is approximately 21.21 (rounded to two decimal places).        
+ 4. Just give the answer from your calculator  
+The square of -3.15, denoted as   9.9225.
+
+5.   =
+	First, calculate the square root of (0.5 * (1 - 0.5)):
+√((0.5)(1-0.5) )/614  = √(0.5 * 0.5)= √0.25=0.5/24.77
+	Now, multiply 1.65 by the result from step 1:
+1.65 * 0.02 = 0.033
+	Next, add 0.52 to the result from step 2:
+0.52 + 0.033 = 0.553
+So, the answer to the expression  is approximately 0.553
+
+
+
+
+   6.    
+
+First, evaluate the square root: √1426-1 = √1425
+ = 37.7
+Next,  36.17/37.7  = 0.958
+Multiply that by 196: 196 * 0.958 = 187.77
+Subtract that from 39.22: 39.22 - 187.77 = -148.55
+So the final answer for    -148.55
+
+   7. Find a, if     =
+X=4.18
+Z=1.96
+S= 3.64
+N=393
+
+To find the value of 'a' using the given values of x, z, s, and n in the equation:
+ 
+Let's substitute the values:
+a = 4.19 ± 1.96 *  3.64/(√393-1)  
+
+√393 ≈ 19.82 (rounded to two decimal places)
+Now, subtract 1 from √393:
+√393 - 1 ≈ 19.82 - 1 ≈ 18.82 
+Now, calculate (3.64 / 18.82):
+3.64 / (18.82)   ≈ 0.1932 
+1.96 * 0.1932 ≈ 0.3788
+a = 4.19 + 0.3788 ≈ 4.5688 
+a = 4.19 - 0.3788 ≈ 3.8112 
+So, for the given values of x, z, s, and n, there are two possible values for 'a':
+For the addition case: a ≈ 4.5688
+For the subtraction case: a ≈ 3.8112
+
+
+
+
+8. Solve the equation for a, if   = 
+Ps =	0.74
+N =	414
+P u =	0.5
+Z =	1.65
+p_u (1-p_u )= 0.5 * (1 - 0.5)
+= 0.5 * 0.5 = 0.25
+  = √(0.25/414)
+Now, calculate this value:
+√(0.25/414)  ≈ 0.0246
+ Now, multiply z by this value:
+1.65 * 0.0246 ≈ 0.0405 
+a = 0.74 + 0.0405  ≈ 0.7605
+ a = 0.74 - 0.0405 ≈ 0.6995
+So, for the given values of ps, n, pu, and z, there are two possible values for 'a':
+	For the addition case: a ≈ 0.7605
+	For the subtraction case: a ≈ 0.6995
+
+
